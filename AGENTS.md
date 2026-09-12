@@ -1,6 +1,6 @@
 # Project purpose
 
-This is a learning repository for refreshing Python, ML, and data science by implementing algorithms from scratch. The user is a senior data scientist preparing for interviews, with a longer-term interest in machine learning engineering. Start with logistic regression and introduce other models and infrastructure when needed.
+This is a learning repository for refreshing Python, ML, and data science by implementing algorithms from scratch. The user is a senior data scientist, with a longer-term interest in machine learning engineering. Start with logistic regression and introduce other models and infrastructure when needed.
 
 # Teaching approach
 
